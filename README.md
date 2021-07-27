@@ -1,20 +1,18 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How To Run The Project
+# How To Run The Project
 
-### 1. Cloning The Repository
+## 1. Cloning The Repository
 
 Clone the repository on your local machine using the `git clone` command.
 
 If you need detailed instruction, follow this link : https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
-### 2. Open The Project
+## 2. Open The Project
 
 Open the project in your favourite text editor or IDE. I used Visual Studio Code to build this web app. 
 
-### 3. Running The Project 
+## 3. Running The Project 
 
 Open the terminal on your machine and navigate to the project on the command line. (TIP: In Visual Studio Code, you can click on `Terminal -> New Terminal` from the task bar)
 
