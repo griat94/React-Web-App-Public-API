@@ -10,12 +10,15 @@ If you need detailed instruction, follow this link : https://docs.github.com/en/
 
 ## 2. Open The Project
 
-Open the project in your favourite text editor or IDE. I used Visual Studio Code to build this web app. 
+Open the terminal/command prompt on your machine and using command line, navigate to the project that you just cloned. Open the project in your favourite text editor or IDE. 
+(TIP: To open the project in Visual Studio Code, navigate to the project using command line and type `code .`)
 
 ## 3. Running The Project 
 
-Open the terminal on your machine and navigate to the project on the command line. (TIP: In Visual Studio Code, you can click on `Terminal -> New Terminal` from the task bar)
+Once the app is open in your text editor/ IDE, use the same open terminal/command prompt as before (or navigate to the project again using command line).  
 
-Next run, `yarn && yarn start` in the terminal window. Application will being to install dependencies and run the project locally (development mode). You can access this project by navigating to [http://localhost:3000](http://localhost:3000) in your favourite browser. I prefer to use Chrome since the chrome dev tools make life much easier for a developer. 
+Next run, `yarn && yarn start` in the terminal/command prompt window. Application will being to install dependencies and run the project locally (development mode). You can access this project by navigating to [http://localhost:3000](http://localhost:3000) in your favourite browser (I recommend Google Chrome).
 
-The page will reload if you make edits.\
+Begin interacting with the web-app to test its functionality. 
+
+Thank you for taking the time to view this web application. 
